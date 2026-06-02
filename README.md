@@ -186,19 +186,6 @@ http://localhost:8501
 
 ---
 
-# 📈 Possíveis Evoluções
-
-* Integração com APIs meteorológicas reais
-* Integração com satélites da NASA
-* Machine Learning supervisionado
-* Deploy em Streamlit Cloud
-* Alertas por e-mail
-* Alertas por WhatsApp
-* Mapa geográfico em tempo real
-* Integração com sensores IoT
-
----
-
 # 📄 Licença
 
 Projeto acadêmico desenvolvido para a disciplina Front-End e Mobile Development em Sistemas de IA – Global Solution 2026/1.
