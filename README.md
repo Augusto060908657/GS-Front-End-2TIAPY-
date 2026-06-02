@@ -148,28 +148,6 @@ Risco =
 
 ---
 
-# 🌎 Fontes de Dados
-
-### Dados Simulados (POC)
-
-O sistema utiliza dados simulados para demonstração da solução.
-
-### Integrações Futuras
-
-Open-Meteo
-
-https://open-meteo.com
-
-NASA FIRMS
-
-https://firms.modaps.eosdis.nasa.gov
-
-OpenWeather
-
-https://openweathermap.org/api
-
----
-
 # ⚙️ Instalação
 
 Clone o repositório:
