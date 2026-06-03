@@ -7,7 +7,7 @@ from pipelines.anomaly_pipeline import detect_anomalies
 
 from state.app_state import initialize_state
 
-from ui.sidebar import render_sidebar
+from UI.sidebar import render_sidebar
 
 from features.dashboard import render_dashboard
 from features.alerts import render_alerts
