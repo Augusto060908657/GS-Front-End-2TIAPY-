@@ -153,7 +153,7 @@ Risco =
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/fireguard-ai.git
+git clone 
 ```
 
 Acesse a pasta:
