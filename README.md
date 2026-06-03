@@ -85,7 +85,7 @@ fireguard-ai/
 ├── state/
 │   └── app_state.py
 │
-├── ui/
+├── UI/
 │   ├── sidebar.py
 │   ├── cards.py
 │   └── charts.py
