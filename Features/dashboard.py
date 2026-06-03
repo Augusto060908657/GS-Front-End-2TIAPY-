@@ -1,8 +1,8 @@
 import streamlit as st
 
-from ui.cards import metric_card
-from ui.charts import risk_plot
-from ui.charts import temperature_plot
+from UI.cards import metric_card
+from UI.charts import risk_plot
+from UI.charts import temperature_plot
 
 def render_dashboard(df):
 
